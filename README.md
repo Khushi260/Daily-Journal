@@ -11,7 +11,7 @@ A daily journal website made using HTML, CSS, Bootsrap, Javascript and Ejs (for 
 <img src="https://github.com/Khushi260/Daily-Journal/blob/main/home.png">
 <br>
 <br>
-<h1>Writing Blogs</h1>
+<h1>Write Blogs</h1>
 <img src="https://github.com/Khushi260/Daily-Journal/blob/main/compose.png">
 <br>
 <br>
