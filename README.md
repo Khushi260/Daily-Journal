@@ -1,6 +1,6 @@
 # Daily-Journal
 
-A daily journal website made using HTML, CSS, Bootsrap, Javascript and Ejs (for templating).
+A daily journal website made using HTML, CSS, Bootsrap, Javascript, NodeJs and MongoDB.
 <br>
 <h2>Features:</h2>
 <p>1. User can write blogs and read them.</p>
